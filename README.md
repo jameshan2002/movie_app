@@ -2,7 +2,7 @@
 
 Making a Movie App using React JS and API.
 
-![image](https://user-images.githubusercontent.com/77949696/128375184-fa2768cb-b913-4b63-854e-b14ea09dbd3d.png)
+![image](https://user-images.githubusercontent.com/77949696/128375441-41185a6e-18e6-4e7f-bca4-8d0c828c7778.png)
  - [Check Demo](https://jameshan2002.github.io/movie_app/)
 
 It uses the API from YTS torrent website.
